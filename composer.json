@@ -1,11 +1,11 @@
 {
-    "name": "hacoidev/ophim-core",
+    "name": "otruyencms/otruyen-core",
     "description": "Ophim's core features",
     "type": "library",
     "authors": [
         {
-            "name": "hacoidev",
-            "email": "hacoi.dev@gmail.com"
+            "name": "truyenpalay",
+            "email": "truyenplay@gmail.com"
         }
     ],
     "require": {
