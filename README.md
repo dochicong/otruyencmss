@@ -8,13 +8,13 @@
     ```
 - MySQL 5.7 or higher.
 # Add-on & Themes:
-- Home: [OPhimCMS.CC](https://opcms.cc)
-- Admin: [Demo.OPhimCMS.CC/admin](https://demo.ophimcms.cc/admin)
-- Free Movies Data: [OPhim.Movie](https://ophim.movie)
+- Home: [truyenplay](https://truyenplay.com)
+- Admin: [Demo.truyenplay/admin](https://truyenplay.com/admin)
+- Free Movies Data: [truyenplay](https://truyenplay.com)
 
 - Add-on:
-    - [OPhim Crawler](https://github.com/hacoidev/ophim-crawler)
-- Theme: [MORE...](https://opcms.cc)
+    - [OPhim Crawler](https://github.com/truyenplay)
+- Theme: [MORE...](https://truyenplay.com)
 
 # Installation:
 1. CD to project root and run: `composer require hacoidev/ophim-core -W`
@@ -67,3 +67,5 @@ Route::get('/', function () {
 ```
 * * * * * cd /path/to/project && php artisan schedule:run >> /dev/null 2>&1
 ```
+
+
